@@ -1,4 +1,8 @@
 If there's just this line, then congratulations! I could understand and use the revert command!
+<<<<<<< HEAD
 Heyyyyy
 Heyoooo
+=======
+
+>>>>>>> parent of 186480e (Adding line in  revert.txt)
 
